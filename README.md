@@ -1,4 +1,4 @@
-![logo](https://github.com/Sidduharwal/Sidduharwal/blob/main/githuib%20banner.png)
+![logo]()
 <h1 align="center">Hi 👋, I'm Siddu Harwal</h1>
 <h3 align="center">Diving deep into web development</h3>
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif"
